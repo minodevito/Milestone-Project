@@ -24,21 +24,14 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 - Services section that presents three distinct web development services using eye-catching cards to capture the user's interest.
 - Contact section with a user-friendly form that allows visitors to easily send messages to the designer.
 
-# Tools used #
-
-- HTML, CSS and JavaScript.
-- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-- [Font Awesome 5](https://fontawesome.com/)
-- [google map](https://www.embed-map.com/)
-
 ## UX/UI SECTION 
 
 ### Wireframes:
-- ![Creative Design](assets/img/image-1.png) 
-- ![Creative Design](assets/img/image-2.png)
-- ![Creative Design](assets/img/image-3.png)
-- ![Creative Design](assets/img/image-4.png)
-- ![Creative Design](assets/img/image-5.png) 
+- ![Creative Design](assets/img/wireframe-1.png) 
+- ![Creative Design](assets/img/wireframe-2.png)
+- ![Creative Design](assets/img/wireframe-3.png)
+- ![Creative Design](assets/img/wireframe-4.png)
+- ![Creative Design](assets/img/wireframe-5.png) 
 
 ## TESTING
 
@@ -62,10 +55,8 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 ### Testing of HTML:  
 - ![html test no.1](assests/img/code-validitation-html.png)
 
-
 ### Testing of CSS:  
 - ![css test no.1](assests/img/code-validitation-css.png)
-
 
 ### Testing of JS:
 - ![css test no.1](assests/img/code-validitation-js.png)
@@ -115,7 +106,7 @@ Then follow the steps:
 
 # Tools used #
 
-* HTML, CSS and JavaScript
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-* [Font Awesome 5](https://fontawesome.com/)
-* [google map](https://www.embed-map.com/)
+- HTML, CSS and JavaScript
+- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Font Awesome 5](https://fontawesome.com/)
+- [google map](https://www.embed-map.com/)
