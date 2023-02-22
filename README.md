@@ -14,7 +14,6 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 | [Unfixed Bugs](#unfixed-bugs) |
 | [Deployment](#deployment) |
 | [Credit](#credit) |
-| [Future Features](#future-features) |
 
 
 ## FEATURES
