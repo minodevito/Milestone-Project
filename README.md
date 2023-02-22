@@ -63,14 +63,14 @@ As a User:
 ### Content responsiveness: 
 
 ### Website viewport for iPad:
-- ![ipad responsiveness view](assests/img/viewport-test-ipad-air.png)
+- ![ipad responsiveness view](assets/img/viewport-test-ipad-air.png)
 
 ### Website viewport for iphone:  
-- ![mobile responsiveness view](assests/img/viewport-test-iphone-xr.png)
+- ![mobile responsiveness view](assets/img/viewport-test-iphone-xr.png)
 
 
 ### Testing of HTML:  
-- ![html test no.1](assests/img/code-validitation-html.png)
+- ![html test no.1](assets/img/code-validitation-html.png)
 
 ### Testing of CSS:  
 - ![css test no.1](assets/img/code-validitation-css.png)
