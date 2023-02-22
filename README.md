@@ -27,11 +27,15 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 ## UX/UI SECTION 
 
 ### Wireframes:
-- ![Creative Design](assets/img/wireframe-1.png) 
-- ![Creative Design](assets/img/wireframe-2.png)
-- ![Creative Design](assets/img/wireframe-3.png)
-- ![Creative Design](assets/img/wireframe-4.png)
-- ![Creative Design](assets/img/wireframe-5.png) 
+- ![Wireframe](assets/img/wireframe-1.png)
+
+### Layout:
+- ![Layout] (assets/img/layout-1.png)
+- ![Layout] (assets/img/layout-2.png)
+- ![Layout] (assets/img/layout-3.png)
+- ![Layout] (assets/img/layout-4.png)
+- ![Layout] (assets/img/layout-5.png)
+- ![Layout] (assets/img/layout-6.png)
 
 ## TESTING
 
