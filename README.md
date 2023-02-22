@@ -24,7 +24,20 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 - Services section that presents three distinct web development services using eye-catching cards to capture the user's interest.
 - Contact section with a user-friendly form that allows visitors to easily send messages to the designer.
 
+## FEATURES THAT CAN BE IMPLEMENTED
+- Portfolio page with projects.
+- Dark Mode.
+
 ## UX/UI SECTION 
+
+## User Story
+
+As a User:
+- I want to be able to easily navigate through the website and find the information or services I need quickly.
+- I expect to see a clear and organized layout that directs me to the different sections of the site. The navigation bar should be easily accessible and include links to the main pages such as the home page, about us, services, and contact us.
+- If I need to contact the website owner or customer support, I expect to find the contact information easily, either on the main navigation bar or on the footer of the website.
+- I expect the website to be responsive and optimized for different screen sizes and devices. This means that the website should look and function well on desktops, laptops, tablets, and smartphones, and load quickly regardless of the device I am using.
+
 
 ### Wireframes:
 ![Wireframe](assets/img/wireframe-1.png)
@@ -75,7 +88,7 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 The project was developed in Gitpod, committed and push to GitHub through using the terminal section in Gitpod.
 To deploy this page to GitHub pages from its GitHub repository, the following steps were taken:
 1. Log into GitHub
-2. From the list of repositories on the screen, select RVPT-website
+2. From the list of repositories on the screen, select 'Milestone-Project'.
 3. From the menu list near the top below the project name, select settings
 4. There will be a nav down the left of the screen. Find pages and select it when found
 5. Select the branch dropdown which will say none and change it to main
