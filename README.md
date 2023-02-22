@@ -104,6 +104,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing of HTML: 
 ![html test no.1](assets/img/code-validitation-html.png)
+![html test no.1](assets/img/code-validitation-html-2.png)
 
 ### Testing of CSS:
 ![css test no.1](assets/img/code-validitation-css.png)
