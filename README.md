@@ -50,6 +50,8 @@ As a User:
 
 ### Wireframes:
 ![Wireframe](assets/img/wireframe-1.png)
+![Wireframe](assets/img/wireframe-2.png)
+![Wireframe](assets/img/wireframe-3.png)
 
 ### Layout:
 ![Layout](assets/img/layout-1.png)
@@ -79,6 +81,14 @@ In addition, the site's images and multimedia content are optimized for fast loa
 
 Overall, this portfolio has been designed to provide a seamless and enjoyable user experience, regardless of the user's device or screen size. If you encounter any issues with content responsiveness or have any suggestions for improvement, please feel free to reach out and let me know.
 
+### Design
+The design of this portfolio has been carefully crafted to showcase my professional background and creative abilities in a visually appealing and easy-to-navigate format.
+
+The color scheme and typography of the portfolio have been thoughtfully chosen to present a professional and polished image while reflecting my personality and style. The color palette and font selection are harmonious, and the typography is legible and easy on the eyes.
+
+To enhance the visual appeal and engagement of the portfolio, high-quality images and multimedia content have been incorporated throughout. These have been carefully selected and optimized to load quickly and be compatible with a range of devices and browsers.
+
+Overall, the design of this portfolio aims to strike a balance between professionalism and personality, while also showcasing my skills and experience in a visually compelling way.
 
 
 ### Website viewport for iPad:
@@ -88,10 +98,14 @@ Overall, this portfolio has been designed to provide a seamless and enjoyable us
 ![mobile responsiveness view](assets/img/viewport-test-iphone-xr.png)
 
 
-### Testing of HTML:  
+### Testing:
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+### Testing of HTML: 
 ![html test no.1](assets/img/code-validitation-html.png)
 
-### Testing of CSS:  
+### Testing of CSS:
 ![css test no.1](assets/img/code-validitation-css.png)
 
 ### Testing of JS:
@@ -99,6 +113,11 @@ Overall, this portfolio has been designed to provide a seamless and enjoyable us
 
 ### Lighthouse testing for performance, accessibility and best practices:
 ![Lighthouse test](assets/img/testing-lighthouse-1.png)
+
+### Further Testing
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone12 and iPhoneXR.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
 
 ## UNFIXED BUGS
 - 
@@ -142,7 +161,15 @@ Then follow the steps:
 
 # Tools used #
 
-- HTML, CSS and JavaScript
-- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-- [Font Awesome 5](https://fontawesome.com/)
-- [google map](https://www.embed-map.com/)
+1. [Bootstrap 5.1.3:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
