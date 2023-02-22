@@ -24,10 +24,20 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 - Contact section with a user-friendly form that allows visitors to easily send messages to the designer.
 
 ## FEATURES THAT CAN BE IMPLEMENTED
-- Portfolio page with projects.
+- Portfolio page with projects links.
 - Dark Mode.
 
 ## UX/UI SECTION 
+
+## Site Goal
+
+
+The primary goal of this portfolio is to showcase my skills and experience as a Designer & Developer, and to present myself as a strong candidate for potential job opportunities or collaborations.
+Specifically, the portfolio aims to:
+
+- Highlight my skills and strengths, including technical expertise, soft skills, and personal qualities that set me apart from others in my field.
+- Make it easy for potential employers, clients, or collaborators to contact me and learn more about my work.
+- To achieve these goals, the portfolio will feature a clean and professional design, high-quality visuals and multimedia content, and clear navigation and organization of information.
 
 ## User Story
 
@@ -42,12 +52,12 @@ As a User:
 ![Wireframe](assets/img/wireframe-1.png)
 
 ### Layout:
-- ![Layout](assets/img/layout-1.png)
-- ![Layout](assets/img/layout-2.png)
-- ![Layout](assets/img/layout-3.png)
-- ![Layout](assets/img/layout-4.png)
-- ![Layout](assets/img/layout-5.png)
-- ![Layout](assets/img/layout-6.png)
+![Layout](assets/img/layout-1.png)
+![Layout](assets/img/layout-2.png)
+![Layout](assets/img/layout-3.png)
+![Layout](assets/img/layout-4.png)
+![Layout](assets/img/layout-5.png)
+![Layout](assets/img/layout-6.png)
 
 ## TESTING
 
@@ -61,24 +71,34 @@ As a User:
 
 ### Content responsiveness: 
 
+This portfolio has been designed with content responsiveness in mind, to ensure that it looks great and is easy to use across a wide range of devices and screen sizes.
+
+To achieve this, the site layout and design are built using responsive design principles and are optimized for a variety of screen sizes, including desktops, laptops, tablets, and mobile devices. This means that the content will automatically adjust and adapt to fit the size and shape of the user's screen, ensuring that it is always easy to read and navigate.
+
+In addition, the site's images and multimedia content are optimized for fast loading times and compatibility with a range of devices and browsers. This means that users on slow connections or older devices will still be able to access and enjoy the portfolio's content without any issues.
+
+Overall, this portfolio has been designed to provide a seamless and enjoyable user experience, regardless of the user's device or screen size. If you encounter any issues with content responsiveness or have any suggestions for improvement, please feel free to reach out and let me know.
+
+
+
 ### Website viewport for iPad:
-- ![ipad responsiveness view](assets/img/viewport-test-ipad-air.png)
+![ipad responsiveness view](assets/img/viewport-test-ipad-air.png)
 
 ### Website viewport for iphone:  
-- ![mobile responsiveness view](assets/img/viewport-test-iphone-xr.png)
+![mobile responsiveness view](assets/img/viewport-test-iphone-xr.png)
 
 
 ### Testing of HTML:  
-- ![html test no.1](assets/img/code-validitation-html.png)
+![html test no.1](assets/img/code-validitation-html.png)
 
 ### Testing of CSS:  
-- ![css test no.1](assets/img/code-validitation-css.png)
+![css test no.1](assets/img/code-validitation-css.png)
 
 ### Testing of JS:
-- ![css test no.1](assets/img/code-validitation-js.png)
+![css test no.1](assets/img/code-validitation-js.png)
 
 ### Lighthouse testing for performance, accessibility and best practices:
-- ![Lighthouse test](assets/img/testing-lighthouse-1.png)
+![Lighthouse test](assets/img/testing-lighthouse-1.png)
 
 ## UNFIXED BUGS
 - 

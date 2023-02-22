@@ -1,6 +1,6 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #0C151C;
+    background-color: whitesmoke;
 }
 
 /* hero background image */
@@ -23,7 +23,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #0C151C;
+    color: whitesmoke;
 }
 
 /* spacing on all sections 
