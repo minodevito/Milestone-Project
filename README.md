@@ -27,15 +27,15 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 ## UX/UI SECTION 
 
 ### Wireframes:
-- ![Wireframe](assets/img/wireframe-1.png)
+![Wireframe](assets/img/wireframe-1.png)
 
 ### Layout:
-- ![Layout] (assets/img/layout-1.png)
-- ![Layout] (assets/img/layout-2.png)
-- ![Layout] (assets/img/layout-3.png)
-- ![Layout] (assets/img/layout-4.png)
-- ![Layout] (assets/img/layout-5.png)
-- ![Layout] (assets/img/layout-6.png)
+- ![Layout](assets/img/layout-1.png)
+- ![Layout](assets/img/layout-2.png)
+- ![Layout](assets/img/layout-3.png)
+- ![Layout](assets/img/layout-4.png)
+- ![Layout](assets/img/layout-5.png)
+- ![Layout](assets/img/layout-6.png)
 
 ## TESTING
 
@@ -60,10 +60,10 @@ Creative Design is a website that enables to showcase skills, abilities, experie
 - ![html test no.1](assests/img/code-validitation-html.png)
 
 ### Testing of CSS:  
-- ![css test no.1](assests/img/code-validitation-css.png)
+- ![css test no.1](assets/img/code-validitation-css.png)
 
 ### Testing of JS:
-- ![css test no.1](assests/img/code-validitation-js.png)
+- ![css test no.1](assets/img/code-validitation-js.png)
 
 ### Lighthouse testing for performance, accessibility and best practices:
 - ![Lighthouse test](assets/img/testing-lighthouse-1.png)
