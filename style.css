@@ -26,12 +26,12 @@
     color: #0C151C;
 }
 
-/* spacing on all sections */
+/* spacing on all sections 
 
 #about, #services, #portfolio, #contact {
     margin-top: 3rem;
     padding-top: 3rem;
-}
+} */
 
 /* about section image css */
 .imageAboutPage {
